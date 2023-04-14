@@ -31,14 +31,14 @@ justfont 相信字體的價值，更相信好的字體能啟發社會。除了�
 
 ## 📎 深入瞭解
 
-[![](https://img.shields.io/badge/OFFICIAL_Website-justfont.com-87b377?style=for-the-badge&logo=pinboard)](https://justfont.com/)
+[![https://justfont.com/](https://img.shields.io/badge/OFFICIAL_Website-justfont.com-87b377?style=for-the-badge&logo=pinboard)](https://justfont.com/)
 
-[![](https://img.shields.io/badge/Instagram-justfont-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/justfont/) 
+[![https://www.instagram.com/justfont/](https://img.shields.io/badge/Instagram-justfont-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/justfont/) 
 
-[![](https://img.shields.io/badge/Facebook-字戀-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/lovefonts)
+[![https://www.facebook.com/lovefonts](https://img.shields.io/badge/Facebook-字戀-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/lovefonts)
 
 
-[![](https://img.shields.io/badge/CONTACT_Mail-just@justfont.com-FFE01B?style=for-the-badge&logo=maildotru)](mailto:just@justfont.com)
+[![mailto:just@justfont.com](https://img.shields.io/badge/CONTACT_Mail-just@justfont.com-FFE01B?style=for-the-badge&logo=maildotru)](mailto:just@justfont.com)
 
 #
 
