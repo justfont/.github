@@ -29,6 +29,12 @@ justfont 相信字體的價值，更相信好的字體能啟發社會。除了�
 | <img src="https://raw.githubusercontent.com/justfont/open-huninn-font/master/image/jf-open-huninn-banner.png" alt= "justfont-logo" width="400pt">| <img src="https://raw.githubusercontent.com/justfont/The-Write-Right-Font/main/image/cover.jpg" alt= "justfont-logo" width="400pt"> |
 |<div alignment="text-align">基於小杉圓體、針對臺灣日常應用加以調整的開源字型</div>|以 OpenType 實現輸入常見錯字即會自動改正功能的開源字型|
 
+
+|[諧靈附體 / AllPunType](https://github.com/justfont/AllPunType)||
+|:--|:--|
+| <img src="https://raw.githubusercontent.com/justfont/.github/main/image/AllPunType-image.png" alt= "justfont-logo" width="400pt">|  |
+|一套將所有生肖的相近音漢字，全部替換成生肖本字的字型家族。||
+
 ## 📎 深入瞭解
 
 [![https://justfont.com/](https://img.shields.io/badge/OFFICIAL_Website-justfont.com-87b377?style=for-the-badge&logo=pinboard)](https://justfont.com/)
