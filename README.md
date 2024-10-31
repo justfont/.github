@@ -46,7 +46,5 @@ justfont 相信字體的價值，更相信好的字體能啟發社會。除了�
 
 [![mailto:just@justfont.com](https://img.shields.io/badge/CONTACT_Mail-just@justfont.com-FFE01B?style=for-the-badge&logo=maildotru)](mailto:just@justfont.com)
 
-#
-
 
 
